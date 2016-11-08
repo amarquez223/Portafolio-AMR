@@ -1,0 +1,19 @@
+body {
+	font-family: 'Overlock', cursive;
+	font-size: 26px;
+	line-height: 1.6;
+}
+
+.home-wrapper {
+	background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url('../images/Desarrollo Web.jpg') no-repeat center top;
+	background-size: cover;
+	color: white;
+}
+
+#home .foto {
+	border-radius: 50%;
+}
+
+#home div {
+	display: inline-block;
+}
